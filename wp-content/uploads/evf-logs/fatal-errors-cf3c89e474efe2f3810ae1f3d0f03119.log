@@ -1,0 +1,240 @@
+2019-04-29T07:07:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:21+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:22+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:26+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:27+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:29+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:29+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:32+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:33+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:33+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:35+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:37+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:38+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:41+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:44+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:07:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:08:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-04-29T07:08:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\templates\component-wrapper.php:13
+Stack trace:
+#0 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(690): require()
+#1 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\template.php(647): load_template('C:\\Users\\priya\\...', false)
+#2 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Main.php(99): get_template_part('header-footer-g...', '')
+#4 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-content\themes\neve\header-footer-grid\Core\Components\Abstract_Component.php(307): HFG\Main->load('component-wrapp...')
+#5 C:\Users\priya\wordpress\www.firstsite.dev.cc\wp-includes\customize\class-wp-customize-partial.php(203): HFG\Core\Components\Abstract_Component->render(Object(WP
+
+2019-05-01T10:24:59+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes)
+
+2019-05-01T10:28:29+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes)
+
+2019-05-01T10:48:29+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 12288 bytes)
+

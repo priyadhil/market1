@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MARKET ONE</title>
+	<atom:link href="/https://priyadhil.github.io/market1/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://priyadhil.github.io/market1/</link>
+	<description>we design your Dream</description>
+	<lastBuildDate>Thu, 02 May 2019 12:37:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+
+<image>
+	<url>/https://priyadhil.github.io/market1/wp-content/uploads/2019/04/cropped-logo-large-1-32x32.png</url>
+	<title>MARKET ONE</title>
+	<link>/https://priyadhil.github.io/market1/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wonderful</title>
+		<link>/https://priyadhil.github.io/market1/blog/</link>
+		<comments>/https://priyadhil.github.io/market1/blog/#respond</comments>
+		<pubDate>Wed, 01 May 2019 17:11:19 +0000</pubDate>
+		<dc:creator><![CDATA[Priyadhil]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/https://priyadhil.github.io/market1/?p=184</guid>
+		<description><![CDATA[Amazed!!you people done a great job. keep up the good work]]></description>
+				<content:encoded><![CDATA[		<div data-elementor-type="post" data-elementor-id="184" class="elementor elementor-184" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-fe53ee0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="fe53ee0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-60cc7aca elementor-column elementor-col-100 elementor-top-column" data-id="60cc7aca" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a40390f elementor-widget elementor-widget-text-editor" data-id="a40390f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Amazed!!you people done a great job. keep up the good work</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+			<wfw:commentRss>/https://priyadhil.github.io/market1/blog/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
